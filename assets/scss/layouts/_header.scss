@@ -1,0 +1,16 @@
+.main-header-flex-items {
+  display: flex;
+  justify-content: center;
+
+  img {
+    margin-right: 30px;
+  }
+
+  h4 {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-weight: bold;
+  }
+
+}

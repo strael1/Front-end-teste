@@ -1,0 +1,58 @@
+.owl-carousel .owl-nav.disabled {
+    display: block!important;
+}
+
+
+@media (min-width: 922px) {
+  .owl-theme .owl-next {
+    color: #fff!important;
+    font-size: 90px!important;
+    position: relative;
+    left: 614px;
+    top: -453px;
+    outline: none;
+    background: none;
+  }
+
+  .owl-theme .owl-prev {
+    color: #fff!important;
+    font-size: 90px!important;
+    position: relative;
+    left: -614px;
+    top: -453px;
+    outline: none;
+    background: none;
+  }
+}
+
+.main-cards-champions {
+  background: #363636;
+
+  .content {
+    padding-top: 150px;
+    padding-bottom: 150px;
+
+    .box-card-text {
+      margin-top: 30px;
+    }
+
+    .box-card {
+      background: #fff!important;
+      padding: 30px;
+      border-radius: 25px;
+      height: 700px;
+
+      img  {
+        background: #363636;
+
+        border-radius: 25px;
+      }
+    }
+
+    .box-card-inner {
+      .box-back-photo {
+
+      }
+    }
+  }
+}
